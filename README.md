@@ -20,7 +20,7 @@
 | `git checkout <branch name>`   | `<branch name> `이동                      |      |
 | `git merge <branch name>`      | 현재 위치에서 해당 브런치를 서로 머지함   |      |
 | `git merge -d <branch name>`   | 해당 브런치 제거                          |      |
-| `git merge -b <branch name>`   | 새로운 브런치 생성 및 이동                |      |
+| `git checkout  -b <branch name>`   | 새로운 브런치 생성 및 이동                |      |
 | `git checkout -f`              | 최근 커밋상태로 돌아감                    |      |
 |                                |                                           |      |
 
